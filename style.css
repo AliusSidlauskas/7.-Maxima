@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(235, 241, 243);
+}
+.container {
+    background-color: white;
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    margin: 1rem auto;
+    padding: 1rem;
+    width: 50%; 
+}
+header {
+    text-align: center;
+}
+header img {
+    height: 4rem;
+}
+header a{
+    color: black;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+main {
+    text-align: center;
+}
+main img {
+    height: 13rem;
+    width: 100%;
+}
+p {
+    text-align:justify ;
+}
+div {
+    text-align: center;
+}
+h2 {
+    font-size:13px ;
+}
+.product {
+    margin: 10px;
+    padding: 10px;
+    text-align:center ;
+    font-weight: bold;
+}
+.product img {
+    height:150px;
+}
+.product .price-tag {
+    font-weight:normal;
+    font-size: 10px;
+}
+.Name {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.ul {
+    text-align: left;}
